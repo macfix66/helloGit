@@ -28,6 +28,7 @@ public class HelloGit {
         // TODO code application logic here
         System.out.println("Hello World .... with git!");
         System.out.println(" modified  line to add....");
+        System.out.println(" Another new line to add....");
     }
     
 }
